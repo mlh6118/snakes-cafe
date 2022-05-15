@@ -26,3 +26,10 @@
 
 Need 6 variables and a dictionary
 
+## Changes realized during coding
+The single most significant change realized during the coding was that the 
+code was going to be repetitive by having the menu listed and then creating 
+lists to handle the orders.  This was refactored by using dictionaries instead.
+
+Unfortunately, due to time constraints, refactoring of the if/elif 
+statements into a single set of the statements was not able to be done.
